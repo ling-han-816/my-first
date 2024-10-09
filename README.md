@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -100,7 +99,7 @@
     <!-- 第一首歌 -->
     <div class="audio-container">
       <audio id="audio1" controls>
-        <source src="audio/klaxon.mp3" type="audio/mp3">
+        <source src="klaxon.mp3" type="audio/mp3">
       </audio>
     </div>
 
